@@ -80,6 +80,10 @@ Git • GitHub • VS Code • Cursor IDE
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
 <img src="https://img.icons8.com/color/48/canva.png" height="45"/>
 
+<!--->
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" height="45"/>
+
+
 
 <!-- Data -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
@@ -121,7 +125,7 @@ Git • GitHub • VS Code • Cursor IDE
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="ksruthi3001@gmail.com">
+  <a href="mailto:ksruthi3001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
