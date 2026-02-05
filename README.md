@@ -9,7 +9,7 @@
 
 
 
-🎓 *Computer Science & Business Systems Student *  
+🎓 Computer Science & Business Systems Student  
 🏫 *Rajalakshmi Institute of Technology*  
 *I'm interested in<br> 🌐 Web Development | 🎨 UX Design | 📊 Data Analytics*
 
@@ -121,7 +121,7 @@ Git • GitHub • VS Code • Cursor IDE
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:ksruthi3001@gmail.com">
+  <a href="ksruthi3001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
