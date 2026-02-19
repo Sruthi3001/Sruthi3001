@@ -144,8 +144,8 @@ Managing workflows & deploying projects seamlessly 🚀
 ---
 
 ## ⚡ Fun Fact
-<p>When I’m not coding, you’ll find me watching movies 🎬, <br>
-  Following cricket 🏏, Vibing to music 🎧, or Planning my next trip ✈️</p>
+<p> When I’m not coding, you’ll find me watching movies 🎬, following cricket 🏏, <br>
+vibing to music 🎧, drawing 🎨, or planning my next trip ✈️</p>
 
 ---
 
