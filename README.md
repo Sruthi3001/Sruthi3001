@@ -15,15 +15,20 @@
 </p>
 
 ---
-<table>
+
 <tr>
 
 <td width="60%" valign="middle">
 
 ##  About Me 
 
-✨ Passionate about blending technology & creativity  
+<p width="40%" align="center">
 
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="260"/>
+
+</p>
+
+✨ Passionate about blending technology & creativity  
 🌐 Building modern & responsive **Web Applications**  
 🎨 Designing intuitive **User Experiences**  
 📊 Exploring **Data Analytics & Visualization**  
@@ -32,14 +37,9 @@
 
 </td>
 
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="260"/>
-
-</td>
 
 </tr>
-</table>
+
 
 
 
